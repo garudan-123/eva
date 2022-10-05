@@ -11,7 +11,7 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- @THM_OTT is a 𝙲𝚕𝚘𝚜𝚎 𝚜𝚘𝚞𝚛𝚌𝚎 project. 
+- @MatRixBotzTG is a 𝙲𝚕𝚘𝚜𝚎 𝚜𝚘𝚞𝚛𝚌𝚎 project. 
 - Source🔒  
 
 <b>DEVS:</b>
